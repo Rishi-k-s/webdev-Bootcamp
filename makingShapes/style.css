@@ -1,0 +1,44 @@
+
+.stdGap{
+    height: 30px;
+}
+
+.subGap{
+    height: 20px;
+}
+
+.headingMain{
+    color: #676767;
+    margin: 0;
+}
+
+.sqBox{
+    height: 200px;
+    width: 200px;
+}
+
+
+h3.pacha{
+    color: green;
+}
+div.pacha{
+    background-color: green;
+}
+
+h3.chumapp{
+    color: red;
+}
+div.chumapp{
+    background-color: red;
+}
+
+h3.neela{
+    color: blue;
+}
+div.neela{
+    background-color: blue;
+}
+
+.marginEq{
+    margin: 0;
+}
