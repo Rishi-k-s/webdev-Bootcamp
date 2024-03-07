@@ -20,8 +20,11 @@ Feel free to browse through the learning materials, code snippets, and reflectio
 
 ## Connect with Me
 
-I'd love to connect with fellow developers, enthusiasts, or anyone interested in web development. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/yourusername) or [Twitter](https://twitter.com/yourusername).
+I'd love to connect with fellow developers, enthusiasts, or anyone interested in web development. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/rishi-krishna-s-137972233/)
 
-## Acknowledgments
 
-I want to express my
+## License
+
+This repository is licensed under the [MIT License](LICENSE). Feel free to use any code or inspiration for your projects.
+
+Happy coding!
